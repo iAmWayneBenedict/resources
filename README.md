@@ -8,3 +8,7 @@
 
 ## serif
 - Playfair Display [Google Fonts](https://fonts.google.com/specimen/Playfair+Display)
+
+
+# Utils
+- [Edge Store](https://edgestore.dev/)
